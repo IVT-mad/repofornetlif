@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/IVT-mad/repofornetlif/static/css/main.0c14a032.css",
+    "main.js": "/IVT-mad/repofornetlif/static/js/main.310799ca.js",
+    "static/js/787.04b152b4.chunk.js": "/IVT-mad/repofornetlif/static/js/787.04b152b4.chunk.js",
+    "static/media/photo4.jpg": "/IVT-mad/repofornetlif/static/media/photo4.4c7907d15dd9ea0be97c.jpg",
+    "static/media/photo2.jpg": "/IVT-mad/repofornetlif/static/media/photo2.7d510936625768642967.jpg",
+    "static/media/photo3.jpg": "/IVT-mad/repofornetlif/static/media/photo3.9a32dfac129b20149889.jpg",
+    "static/media/photo1.jpg": "/IVT-mad/repofornetlif/static/media/photo1.76b22eb753ddc88e0626.jpg",
+    "index.html": "/IVT-mad/repofornetlif/index.html",
+    "main.0c14a032.css.map": "/IVT-mad/repofornetlif/static/css/main.0c14a032.css.map",
+    "main.310799ca.js.map": "/IVT-mad/repofornetlif/static/js/main.310799ca.js.map",
+    "787.04b152b4.chunk.js.map": "/IVT-mad/repofornetlif/static/js/787.04b152b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c14a032.css",
+    "static/js/main.310799ca.js"
+  ]
+}
